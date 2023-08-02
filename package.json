@@ -1,0 +1,14 @@
+{
+  "name": "gaminghub",
+  "version": "1.0.0",
+  "description": "Explore the world of gaming!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "kilimoderrick",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
